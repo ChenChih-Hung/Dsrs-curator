@@ -4,8 +4,8 @@ Fill this in and commit it. A submission missing the video link is incomplete.
 
 ## Who
 
-- **Name:**
-- **NetID:**
+- **Name:** Chen-Chih Hung
+- **NetID:** chung827
 
 ## Video
 
@@ -21,10 +21,10 @@ Set visibility to **Unlisted**.
 
 Mark what you completed. Partial work still gets read.
 
-- [ ] 1 · Source
-- [ ] 2 · Interrogate
-- [ ] 3 · Structure
-- [ ] 4 · Serve
+- [v] 1 · Source
+- [v] 2 · Interrogate
+- [v] 3 · Structure
+- [v] 4 · Serve
 - [ ] 5 · Show
 - [ ] Bonus 1 — Notice attribution
 - [ ] Bonus 2 — CUSIP validation
@@ -44,9 +44,6 @@ Mark what you completed. Partial work still gets read.
 - [ ] Frozen files unmodified
 
 ## Anything we should know
-
-Trade-offs you made, things you would do with more time, parts you are unsure about.
-Being candid here does not count against you.
 
 ## Video sharing
 

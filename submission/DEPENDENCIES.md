@@ -8,12 +8,18 @@ one deliberately.
 
 | Library | Version | Why |
 |---|---|---|
-| *example* | *2.1.0* | *replace this row* |
+
+No additions to `requirements-extra.txt`. Everything the pipeline needed —
+HTTP (`httpx`), XML parsing (`lxml`), columnar output (`pyarrow`), the LLM client
+(`openai`), and env loading (`python-dotenv`) — was already covered by the frozen
+`requirements.txt`.
 
 ## Anything you considered and rejected
 
-Optional, but the more interesting half. A library you looked at and decided against —
-and why — says more than the ones you kept.
+Considered a dedicated 13F-parsing library, but the challenge is graded on the parsing
+itself, and the frozen requirements plus `lxml` were already sufficient for
+namespace-agnostic XML traversal — adding one would have hidden the part being graded
+rather than helped it.
 
 ## Note
 
